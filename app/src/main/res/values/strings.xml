@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FIFA18</string>
+    <string name="rules">
+        1. Match between two same teams is not allowed.\n\n\n
+        2. Time of fixture is compulsory.\n\n\n
+        3. Date of fixture is compulsory.\n\n\n
+        4. Venue of fixture is compulsory.\n\n\n
+    </string>
+</resources>
